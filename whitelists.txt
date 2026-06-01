@@ -1,0 +1,4 @@
+#profile-title: VPN | Белые списки
+#announce: Использовать только на мобильном интернете при белых списках!
+#profile-update-interval: 3
+#support-url: https://t.me/bez_pomeh
